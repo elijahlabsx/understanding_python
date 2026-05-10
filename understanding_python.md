@@ -29,7 +29,7 @@ This is a collection of pre-written code that helps to perform specific tasks wi
 
 ## Python Libraries Used in Data Analytics
 
-<img width="1063" height="950" alt="image" src="/python1.png" />
+<img width="1063" height="950" alt="image" src="/python1.PNG" />
 		
 
 
@@ -69,7 +69,7 @@ Python creates charts such as:
 
 In trying to understand how python is applied in real-world case scenario in data analytics, here is a break down of what I got:
 
-<img width="1063" height="950" alt="image" src="/python2.png" />	
+<img width="1063" height="950" alt="image" src="/python2.PNG" />	
 
 Beginners should learn Python because:
 
